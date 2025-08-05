@@ -2,8 +2,10 @@ baseURL = "https://nesshin7.github.io/"
 title = "熱心"
 theme = "risotto"
 author = "Augustinus"
-paginate = 3
 languageCode = "en"
+
+[pagination]
+  pagerSize = 3
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
@@ -53,10 +55,9 @@ unsafe = true
     disabled = false
     simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+  [privacy.x]
+  enableDNT = true
+  simple = true
 
   [privacy.instagram]
     disabled = false
@@ -71,5 +72,5 @@ unsafe = true
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true
+  [services.x]
+  disableInlineCSS = true
