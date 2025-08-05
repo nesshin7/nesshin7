@@ -1,0 +1,75 @@
+baseURL = "https://nesshin7.github.io/"
+title = "熱心"
+theme = "risotto"
+author = "Augustinus"
+paginate = 3
+languageCode = "en"
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params]
+style = "dark"  # or "dark" or "auto"
+noindex = false  # Ensures the home page lists blog posts
+
+[params.theme]
+palette = "gruvbox-dark"
+
+# Sidebar: about/bio
+[params.about]
+title = "信仰、熱心、理解"
+description = "faith, fervor, understanding"
+logo = "images/cross.ico"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+    
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
