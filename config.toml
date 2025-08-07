@@ -21,7 +21,7 @@ palette = "gruvbox-dark"
 [params.about]
 title = "信仰、熱心、理解"
 description = "faith, fervor, understanding"
-logo = "images/cross.ico"
+# logo = "images/rice.svg"
 
 [menu]
 
