@@ -31,6 +31,16 @@ description = "faith, fervor, understanding"
     url = "/about/"
     weight = 10
     
+    [[menu.main]]
+    identifier = "prayers"
+    name = "Prayers"
+    url = "/prayers/"
+    
+    [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    
 [taxonomies]
 category = "categories"
 tag = "tags"
