@@ -5,7 +5,7 @@ date = "2025-08-05"
 +++
 I'm seeking to grow in faith, fervor, and understanding.  I came to Japan in 2022, and came to faith about a year later. After completing catechesis I received the Sacrament of Confirmation and the name of my patron Saint Augustine of Hippo. I will mostly (but not exclusively) write about Catholic themes, such as what I've learned from Bible readings or my experiences trying to live a Christian life. I also want to practice writing in Japanese about my thoughts and interests in a way that is genuine, even if what I write is technically poor. Where I write in both English and Japanese, the intention is not necessarily to have equivalent translations side-by-side, but rather direct production in the working language.
 
-Two principals restricting my posts:
+Two principles restricting my posts:
 1. No images
 2. No machine translation
 
