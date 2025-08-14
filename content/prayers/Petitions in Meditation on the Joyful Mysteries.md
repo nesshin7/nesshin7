@@ -4,8 +4,9 @@ author = "nesshin"
 date = 2025-08-13
 summary = "Petitions in Meditation on the Joyful Mysteries of the Holy Rosary of the Blessed Virgin Mary"
 +++
-
+<br>
 †In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+<p></p>
 
 **The first of the Joyful Mysteries, the Annunciation**
 

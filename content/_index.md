@@ -7,4 +7,8 @@ _passion; fervor; zeal- unto whither shall we direct our hearts?_
 
 ```
 **This blog is in a draft state. このブログはまだ下書きです。**
+To do:
+- Improve formatting of post list
+- Tweak sidebar formatting
+- Adjust colour scheme
 ```
