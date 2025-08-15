@@ -16,7 +16,7 @@ Lord, please grant us a share in Mary's humility, that we may accept with faith 
 
 **The second of the Joyful Mysteries, the Visitation**
 
-> _Mary went to live with her cousin Elizabeth for the duration of their pregnancies. The infant John leapt for joy in Elizabeth's womb at the approach of the Lord Jesus, and Elizabeth exclaimed "Blessed art thou among women, and blessed is the fruit of thy womb! How is it that the mother of my Lord should come to me?"_
+> _Mary went to live with her cousin Elizabeth for three months. The infant John leapt for joy in Elizabeth's womb at the approach of the Lord Jesus, and Elizabeth exclaimed "Blessed art thou among women, and blessed is the fruit of thy womb! How is it that the mother of my Lord should come to me?"_
 
 Lord, grant us a share in Mary's filial piety, and help us also to appreciate the holy participation that motherhood is in Your divine work, the creation of life. Amen.
 
